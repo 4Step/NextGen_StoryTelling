@@ -447,7 +447,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Many-to-One: User Settings',
-            image: './images/chapter_3/ProgramNET.png',
+            image: './images/chapter_3/programNET.png',
             description: 'The projects are coded in QGIS and maintained in postgresSQL server as each individual layer. The node file is updated via script to register new nodes for the projct links. The user is required to specify which layers needs to be used for scenario development.  ',
             location: {
                 center: [-83.27604, 32.31743],
